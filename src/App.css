@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.quote h3{
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  margin-bottom: 10px  !important;
+}
+.quote h6{
+  font-size: 1rem;
+  margin-top: 0 !important;
+}
+img{
+  width: 400px;
+  height: 300px;
+  border-radius: 1rem;
+  margin: 2rem auto;
+}
